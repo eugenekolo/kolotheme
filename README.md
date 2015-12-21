@@ -2,7 +2,7 @@ Kolotheme
 =======
 A dark ghost blog theme for developers. 
 
-The follow may or my not be features you desire, but they are what I like about this theme.
+The following may or may not be features you desire, but they are what I like about this theme.
 
 Features:
 * Lists blogs on the front page. No splash screen.
@@ -11,5 +11,8 @@ Features:
 * Syntax highlighting for code
 * Sweet RSS pop-up
 * Some share buttons on post pages
+* Side navigation bar
+* Mobile friendly
 
-Demo: https://www.eugenekolo.com
+Demo: https://www.eugenekolo.com/blog
+
