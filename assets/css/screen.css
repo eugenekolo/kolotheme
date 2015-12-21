@@ -731,7 +731,6 @@ input {
    1. Media Queries - Smaller than 500px
    ========================================================================== */
 
-
 @media only screen and (max-width: 500px) {
 
     /*#blog-logo img {
@@ -742,6 +741,7 @@ input {
       width: 90%;
       margin: 0 auto;
     }
+
     #content-left {
       width: 100%;
       margin-bottom: 10px;
@@ -803,6 +803,11 @@ input {
         display: block;
     }
 
+    .side-bar {
+        width: 100%;
+        position: relative;
+    }
+
     .site-footer {
         margin-top: 6rem;
         font-size: 1.1rem;
@@ -837,4 +842,3 @@ body .gist .pl-k, body .gist .pl-st {
 body .gist .pl-s1, body .gist .pl-pds {
   color: #76A22F; 
 }
-
