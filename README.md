@@ -16,3 +16,7 @@ Features:
 
 Demo: https://www.eugenekolo.com/blog
 
+## Screenshots
+![Screenshot of blog 1](http://i.imgur.com/mSmYiSZ.png)
+
+![Screenshot of blog 2](http://i.imgur.com/wIZlBmT.png)
